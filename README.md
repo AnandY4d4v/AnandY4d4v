@@ -6,7 +6,7 @@ Web Developer and coder.
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [My portfolio](http://anandy4d4v.github.io/Anand/)
-* ✉️  You can contact me at [anandyadav.8501@gmail.com](mailto:anandyadav.8501@gmail.com)
+* ✉️  You can contact me at [email2felixfelix@gmail.com](mailto:email2felixfelix@gmail.com)
 * 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on Front-end development
 
